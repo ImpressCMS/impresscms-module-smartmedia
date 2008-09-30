@@ -38,7 +38,7 @@ if (empty($fct)) $fct = 'preferences' ;
 include_once "../../../mainfile.php";
 include_once XOOPS_ROOT_PATH."/include/cp_functions.php";
 
-include_once XOOPS_ROOT_PATH."/class/xoopsmodule.php";
+require_once XOOPS_ROOT_PATH.'/kernel/module.php';
 
 $admintest = 0;
 

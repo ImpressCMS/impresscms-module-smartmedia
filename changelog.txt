@@ -5,6 +5,8 @@
 * Licence: GNU
 */
 
+- changed: references to class/xoopsmodule.php to kernel/module.php (vaughan)
+
 => Version 0.85 Beta (2005-06-14)
 ====================================
 
